@@ -31,7 +31,7 @@
         <!-- test -->
         <junit.version>4.13</junit.version>
         <!-- mvc -->
-        <jackson.version>2.9.0</jackson.version>
+        <jackson.version>2.12.7.1</jackson.version>
         <!-- other -->
         <lombok.version>1.18.12</lombok.version>
         <servlet.version>4.0.1</servlet.version>
